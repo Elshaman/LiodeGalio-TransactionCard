@@ -11,7 +11,22 @@ export default function App() {
           <Text>Total Spent: $6000 </Text>
         </View>
         <View>
-
+          <View>
+            <Text>Startbucks </Text>
+            <Text>$10.12</Text>
+          </View>
+          <View>
+            <Text>Givenchy  </Text>
+            <Text>$12.12</Text>
+          </View>
+          <View>
+            <Text>Target  </Text>
+            <Text>$6.99</Text>
+          </View>
+          <View>
+            <Text>Bolt  </Text>
+            <Text>$16.12</Text>
+          </View>
         </View>
       </View>
     </View>
