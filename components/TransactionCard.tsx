@@ -3,10 +3,12 @@ import TransactionCardHeader from './TransactionCardHeader';
 import TransactionCardList from './TransactionCardList';
 
 const TransactionCard = ( ) => {
+
+  
+    
     return (
         <View>
-            <TransactionCardHeader />
-            <TransactionCardList />
+            <TransactionCardHeader  />
         </View>
     );
 }
